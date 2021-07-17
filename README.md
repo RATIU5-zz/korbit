@@ -1,9 +1,17 @@
-# README
+# Korbit theme for [Visual Studio Code](https://code.visualstudio.com/)
 
-## Korbit VSCode theme
+![Korbit theme](./assets/jsx.png)
 
-Korbit is a theme for VSCode, inspired by [Gruvbox](https://marketplace.visualstudio.com/items?itemName=tomphilbin.gruvbox-themes), [IntelliJ IDEA Darcula](https://www.jetbrains.com/idea/), and [Visual Studio Dark](https://visualstudio.microsoft.com/) themes
+Korbit is a minimalist theme for [Visual Studio Code](https://code.visualstudio.com/), inspired by [Gruvbox](https://marketplace.visualstudio.com/items?itemName=tomphilbin.gruvbox-themes), [IntelliJ IDEA Darcula](https://www.jetbrains.com/idea/), and [Visual Studio Dark](https://visualstudio.microsoft.com/) themes.
 
-## Currently in-progress, no release yet
+## Installation
 
-For testing and feedback, feel free to download, fork, or contribute
+Todo
+
+## Changelog
+
+See [CHANGELOG.md](./CHANGELOG.md)
+
+## License
+
+[MIT License](./LICENSE)
