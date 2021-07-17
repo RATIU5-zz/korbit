@@ -2,6 +2,7 @@
 	"name": "korbit-theme",
 	"displayName": "Korbit Theme",
 	"description": "Korbit Theme for Visual Studio Code, inspired by IntelliJ Darcula, Gruvbox, and Visual Assist advanced highlighting for Visual Studio",
+	"icon": "./assets/icon.png",
 	"publisher": "RATIU5",
 	"version": "0.1.0",
 	"categories": [
